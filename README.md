@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://discord.com/users/852834797176094721" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://github.com/Aurorafx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/mariinna_xx" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E</a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aurorafx" alt="Aurorafx" /> </p>
 
