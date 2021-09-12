@@ -2,6 +2,7 @@
 
 ### Hi İm There Aurora <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
+<p align="left">Selam, Ben Aurora Discord Botları Yapıyorum Sadece
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aurorafx" alt="Aurorafx" /> </p>
 
