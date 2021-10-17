@@ -2,7 +2,7 @@
 
 ### Hi İm There Aurora <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
-<p align="left">Selam, Ben Lanceas Discord Botları Yapıyorum Sadece
+<p align="left">Selam, Ben Arda Discord Botları Yapıyorum Sadece
 
 ### Software Languages
 
