@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/881992907203178547/883624516855689256/image0.gif" align="right" width="400" height="250">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400" height="250">
 
 ### Hi İm There Aurora <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
