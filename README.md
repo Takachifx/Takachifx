@@ -22,20 +22,3 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/923489640227426334)](https://discord.com/users/852834797176094721)
 
-class C0DEZAS {
-  constructor() {
-    this.name = "Dom";
-    this.age = 17;
-    this.projects = ["Tsuko"];
-    this.learning = "REACT";
-    this.interested = "artificial inteligence";
-    this.languages = ["Javascript", "Typescript"];
-    this.databases = ["MongoDB", "MariaDB"];
-  }
- hello() {
- console.log('Thanks for dropping by, hope you find some of my work interesting.')
-}
-}
-
-const me = new C0DEZAS();
-me.hello();
