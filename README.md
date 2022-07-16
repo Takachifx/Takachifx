@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400" height="250">
 
-### Hi İm There Lanceas <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
+### Hi İm There Takachi <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
 <p align="left"Ben Takachi 2 Sene Önce Yazılıma Başladım Şimdide Bilgisayar Mühendisliği Bölümü Okuyorum Boş Zamanlarımda Discord İle Uğraşıyorum.
 
