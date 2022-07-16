@@ -1,8 +1,12 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400" height="250">
+👋 Selam Benim Adım Arda!
 
-### Hi İm There Takachi <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
+🔱 Samsun ilçesinde Yaşıyorum.
 
-<p align="left"Ben Takachi 2 Sene Önce Yazılıma Başladım Şimdide Bilgisayar Mühendisliği Bölümü Okuyorum Boş Zamanlarımda Discord İle Uğraşıyorum.
+👀 4 Seneyi Aşmış Bir Süredir Takachi Olarak Bilinen Bir Discord Kullanıcısıyım.
+
+🌱 2 Yıldır Web Ve Discord Bot Geliştiricisiyim, Halk Hitabıyla Botçuyum.
+
+💞️ Sevdiğim Ve Genel Olarak Bilgiye Sahip Oldum Yazılım Dileri, `Py , djs , js ` Ve  `Html/Css `
 
 ### Software Languages
 
