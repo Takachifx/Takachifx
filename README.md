@@ -2,7 +2,7 @@
 
 ### Hi İm There Lanceas <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
-<p align="left">Selam, Ben Arda Discord Botları Yapıyorum Sadece
+<p align="left"Ben Takachi 2 Sene Önce Yazılıma Başladım Şimdide Bilgisayar Mühendisliği Bölümü Okuyorum Boş Zamanlarımda Discord İle Uğraşıyorum.
 
 ### Software Languages
 
