@@ -2,9 +2,9 @@
 
 🔱 İstanbul ilçesinde Yaşıyorum.
 
-👀 4 Seneyi Aşmış Bir Süredir Takachi Olarak Bilinen Bir Discord Kullanıcısıyım.
+👀 3 Seneyi Aşmış Bir Süredir Takachi Olarak Bilinen Bir Discord Kullanıcısıyım.
 
-🌱 2 Yıldır Web Ve Discord Bot Geliştiricisiyim, Halk Hitabıyla Botçuyum.
+🌱 2 Yıldır Web Geliştiricisiyim.
 
 💞️ Sevdiğim Ve Genel Olarak Bilgiye Sahip Oldum Yazılım Dileri, `Py , djs , js ` Ve  `Html/Css `
 
