@@ -6,7 +6,7 @@
 
 🌱 2 Yıldır Web Geliştiricisiyim.
 
-💞️ Sevdiğim Ve Genel Olarak Bilgiye Sahip Oldum Yazılım Dileri, `Py , djs , js ` Ve  `Html/Css `
+💞️ Sevdiğim Ve Genel Olarak Bilgiye Sahip Oldum Yazılım Dileri, `Py , djs , js` Ve `Html/Css`
 
 <p align="left">
 <a href="https://discord.com/users/995642876417552424" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
