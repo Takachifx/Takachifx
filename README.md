@@ -1,6 +1,6 @@
 👋 Selam Benim Adım Arda!
 
-🔱 Samsun'da Yaşıyorum.
+🔱 İzmir'de Yaşıyorum.
 
 👀 3 Seneyi Aşmış Bir Süredir Takachi Olarak Bilinen Bir Discord Kullanıcısıyım.
 
